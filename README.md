@@ -40,7 +40,7 @@ body::before {
   z-index:-1;
   width:100%;
   height:100vh;
-  background:url(https://torokoid.github.io/ensoku/20190527_001.JPG) center/cover no-repeat; /*fixedをトル！*/
+  background:url(https://torokoid.github.io/kanreki/20190601_09.JPG) center/cover no-repeat; /*fixedをトル！*/
   -webkit-background-size:cover;/*Android4*/
   }
 
@@ -82,12 +82,30 @@ screen and (orientation: landscape) {
 -->
 
 
-<a href="20190527_001.JPG" data-lightbox="abc"><img src="20190527_001.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20190527_002.JPG" data-lightbox="abc"><img src="20190527_002.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20190527_003.JPG" data-lightbox="abc"><img src="20190527_003.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20190527_004.JPG" data-lightbox="abc"><img src="20190527_004.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20190527_005.JPG" data-lightbox="abc"><img src="20190527_005.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20190527_006.JPG" data-lightbox="abc"><img src="20190527_006.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20190601_001.JPG" data-lightbox="abc"><img src="20190601_001.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20190601_002.JPG" data-lightbox="abc"><img src="20190601_002.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20190601_003.JPG" data-lightbox="abc"><img src="20190601_003.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20190601_004.JPG" data-lightbox="abc"><img src="20190601_004.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20190601_005.JPG" data-lightbox="abc"><img src="20190601_005.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20190601_006.JPG" data-lightbox="abc"><img src="20190601_006.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20190601_007.JPG" data-lightbox="abc"><img src="20190601_007.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20190601_008.JPG" data-lightbox="abc"><img src="20190601_008.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20190601_009.JPG" data-lightbox="abc"><img src="20190601_009.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20190601_010.JPG" data-lightbox="abc"><img src="20190601_010.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20190601_011.JPG" data-lightbox="abc"><img src="20190601_011.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20190601_012.JPG" data-lightbox="abc"><img src="20190601_012.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20190601_013.JPG" data-lightbox="abc"><img src="20190601_013.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20190601_014.JPG" data-lightbox="abc"><img src="20190601_014.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20190601_015.JPG" data-lightbox="abc"><img src="20190601_015.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20190601_016.JPG" data-lightbox="abc"><img src="20190601_016.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20190601_017.JPG" data-lightbox="abc"><img src="20190601_017.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20190601_018.JPG" data-lightbox="abc"><img src="20190601_018.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20190601_019.JPG" data-lightbox="abc"><img src="20190601_019.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20190601_020.JPG" data-lightbox="abc"><img src="20190601_020.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20190601_021.JPG" data-lightbox="abc"><img src="20190601_021.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20190601_022.JPG" data-lightbox="abc"><img src="20190601_022.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20190601_023.JPG" data-lightbox="abc"><img src="20190601_023.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20190601_024.JPG" data-lightbox="abc"><img src="20190601_024.JPG" alt="サンプル画像" width="900" /></a>
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <section><span class="blue">

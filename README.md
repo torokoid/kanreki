@@ -81,7 +81,8 @@ screen and (orientation: landscape) {
 <h2><span class="yellow"><marquee behavior="alternate">!!! 2019年6月1日、還暦祝い@池袋 !!!</marquee></span></h2>
 -->
 
-
+<a href="20190601_026.JPG" data-lightbox="abc"><img src="20190601_026.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20190601_025.JPG" data-lightbox="abc"><img src="20190601_025.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20190601_001.JPG" data-lightbox="abc"><img src="20190601_001.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20190601_002.JPG" data-lightbox="abc"><img src="20190601_002.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20190601_003.JPG" data-lightbox="abc"><img src="20190601_003.JPG" alt="サンプル画像" width="900" /></a>

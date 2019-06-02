@@ -93,7 +93,7 @@ screen and (orientation: landscape) {
 <a href="20190601_019.JPG" data-lightbox="abc"><img src="20190601_019.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20190601_020.JPG" data-lightbox="abc"><img src="20190601_020.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20190601_023.JPG" data-lightbox="abc"><img src="20190601_023.JPG" alt="サンプル画像" width="900" /></a>
-<br>
+<br><br>
 <p><span class="yellow">二次会</span></p>
 <a href="20190601_001.JPG" data-lightbox="abc"><img src="20190601_001.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20190601_002.JPG" data-lightbox="abc"><img src="20190601_002.JPG" alt="サンプル画像" width="900" /></a>
@@ -106,7 +106,7 @@ screen and (orientation: landscape) {
 <a href="20190601_009.JPG" data-lightbox="abc"><img src="20190601_009.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20190601_010.JPG" data-lightbox="abc"><img src="20190601_010.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20190601_012.JPG" data-lightbox="abc"><img src="20190601_012.JPG" alt="サンプル画像" width="900" /></a>
-<br>
+<br><br>
 <p><span class="yellow">三次会</span></p>
 <a href="20190601_021.JPG" data-lightbox="abc"><img src="20190601_021.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20190601_022.JPG" data-lightbox="abc"><img src="20190601_022.JPG" alt="サンプル画像" width="900" /></a>

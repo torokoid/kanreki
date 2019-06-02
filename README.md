@@ -40,7 +40,7 @@ body::before {
   z-index:-1;
   width:100%;
   height:100vh;
-  background:url(https://torokoid.github.io/kanreki/20190601_09.JPG) center/cover no-repeat; /*fixedをトル！*/
+  background:url(https://torokoid.github.io/kanreki/20190601_019.JPG) center/cover no-repeat; /*fixedをトル！*/
   -webkit-background-size:cover;/*Android4*/
   }
 
@@ -71,7 +71,7 @@ screen and (orientation: landscape) {
   モバイル端末をお使いの場合は、画面を横向きにするとより見やすくご覧頂けます。
 </p>
 
-<h1><span class="yellow"><marquee behavior="alternate">!!! 還暦祝い＠池袋 !!!</marquee></span></h1>
+<h1><span class="yellow"><marquee behavior="alternate">!!! 大泉高校３０期、還暦祝い＠池袋 !!!</marquee></span></h1>
 <p><a href="https://torokoid.github.io/home">Home</a>><a href="https://torokoid.github.io/oizumi">2019年同期会</a>>還暦祝い＠池袋</p>
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
@@ -134,5 +134,5 @@ screen and (orientation: landscape) {
 
 <!-- フッタ -->
  <footer>
- <span class="white">Copyright 2019/05/27 Pe-Young(S.Hada)</span>
+ <span class="white">Copyright 2019/06/02 Pe-Young(S.Hada)</span>
  </footer>

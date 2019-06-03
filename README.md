@@ -72,7 +72,7 @@ screen and (orientation: landscape) {
 </p>
 
 <h1><span class="yellow"><marquee behavior="alternate">!!! 大泉高校３０期、還暦祝い＠池袋 !!!</marquee></span></h1>
-<p><a href="https://torokoid.github.io/home">Home</a>><a href="https://torokoid.github.io/oizumi">2019年同期会</a>>還暦祝い＠池袋</p>
+<p><a href="https://torokoid.github.io/home">Home</a>><a href="https://torokoid.github.io/oizumi">2019年同期会</a>>還暦祝い＠池袋><a href="https://torokoid.github.io/shiba">写真集</a></p>
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <!--
@@ -112,9 +112,11 @@ screen and (orientation: landscape) {
 <a href="20190601_012.JPG" data-lightbox="abc"><img src="20190601_012.JPG" alt="サンプル画像" width="900" /></a>
 <br><br>
 <p><span class="yellow">三次会</span></p>
+<a href="20190601_024.JPG" data-lightbox="abc"><img src="20190601_024.JPG" alt="サンプル画像" width="900" /></a>
+<br><br>
+<p><span class="yellow">事前打ち合わせ会</span></p>
 <a href="20190601_021.JPG" data-lightbox="abc"><img src="20190601_021.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20190601_022.JPG" data-lightbox="abc"><img src="20190601_022.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20190601_024.JPG" data-lightbox="abc"><img src="20190601_024.JPG" alt="サンプル画像" width="900" /></a>
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <section><span class="blue">

@@ -81,7 +81,7 @@ screen and (orientation: landscape) {
 <h2><span class="yellow"><marquee behavior="alternate">!!! 2019年6月1日、還暦祝い@池袋 !!!</marquee></span></h2>
 -->
 <p><span class="yellow">代表幹事の、６組増子さん</span></p>
-<a href="20190601_027.JPG" data-lightbox="abc"><img src="20190601_027.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20190601_000.JPG" data-lightbox="abc"><img src="20190601_000.JPG" alt="サンプル画像" width="900" /></a>
 <br><br><br><br>
 
 <p><span class="yellow">一次会</span></p>
@@ -97,6 +97,7 @@ screen and (orientation: landscape) {
 <a href="20190601_019.JPG" data-lightbox="abc"><img src="20190601_019.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20190601_020.JPG" data-lightbox="abc"><img src="20190601_020.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20190601_023.JPG" data-lightbox="abc"><img src="20190601_023.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20190601_027.JPG" data-lightbox="abc"><img src="20190601_027.JPG" alt="サンプル画像" width="900" /></a>
 <br><br>
 <p><span class="yellow">二次会</span></p>
 <a href="20190601_001.JPG" data-lightbox="abc"><img src="20190601_001.JPG" alt="サンプル画像" width="900" /></a>

@@ -76,6 +76,7 @@ screen and (orientation: landscape) {
     100% {opacity:1;}
 }
 
+
 </style> 
 
 <link href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.7.1/css/lightbox.css" rel="stylesheet">
